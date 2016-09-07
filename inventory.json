@@ -1,0 +1,53 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Ford",
+      "model": "Tempo",
+      "year": "1993",
+      "price": "3000",
+      "description": "This was my first car.  It died a miserable death."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": "2016",
+      "price": "25000",
+      "description": "This is my current car.  I haven't had any issues with it yet.  Do not buy a Ford Focus."
+    },
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Ford",
+      "model": "Tempo",
+      "year": "1993",
+      "price": "3000",
+      "description": "This was my first car.  It died a miserable death."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": "2016",
+      "price": "25000",
+      "description": "This is my current car.  I haven't had any issues with it yet.  Do not buy a Ford Focus."
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Malibu",
+      "year": "2016",
+      "price": "25000",
+      "description": "This is my current car.  I haven't had any issues with it yet.  Do not buy a Ford Focus."
+    }
+  ]
+}
