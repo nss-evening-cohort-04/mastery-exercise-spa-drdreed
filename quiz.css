@@ -1,0 +1,33 @@
+body {
+  box-sizing: border-box;
+}
+
+.card {
+  padding: 2.5%;
+  border: 1px solid black;
+  margin: 10px 0;
+  min-height: 200px;
+}
+
+.thick-border {
+  border-width: 5px;
+}
+
+.red {
+  background-color: red;
+}
+
+.make-model {
+  font-size: 1.75em;
+  font-weight: bold;
+}
+
+.year, .price {
+  font-size: 1.25em;
+  color: green;
+  padding: 5px;
+}
+
+.price {
+  padding: 15px;
+}
